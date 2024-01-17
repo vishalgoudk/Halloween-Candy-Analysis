@@ -11,28 +11,35 @@ This Halloween candy analysis project involves exploring and gaining insights fr
 
 # Analysis Steps
 
-1. Importing Data
+-- Importing Data
 
 The initial step involves importing the Halloween candy dataset from the CSV file into SQL Server, creating a database table for further analysis.
-2. Most Popular Halloween Candy
+
+-- Most Popular Halloween Candy
 
 Identify and list the most popular Halloween candy based on popularity ratings.
-3. Least Popular Halloween Candy
+
+-- Least Popular Halloween Candy
 
 Determine and list the least popular Halloween candy based on popularity ratings.
-4. Most Popular Halloween Candy that Contains Chocolate
+
+-- Most Popular Halloween Candy that Contains Chocolate
 
 Identify and list the most popular Halloween candies that contain chocolate.
-5. Analysis of Ingredients Against Top 10 Most Popular Candies
+
+-- Analysis of Ingredients Against Top 10 Most Popular Candies
 
 Examine the presence of specific ingredients (Caramel, Fruity, Peanuts/Almonds, Nougat, Crispy Wafers) in the top 10 most popular candies.
-6. Most Sugary Candies
+
+-- Most Sugary Candies
 
 Order the candies by their sugar content and identify the most sugary candies, ordered by popularity.
-7. Hard Candies vs. Soft Candies
+
+-- Hard Candies vs. Soft Candies
 
 Distinguish between hard and soft candies, categorizing them based on their texture.
-8. Top Costly Candies
+
+-- Top Costly Candies
 
 Identify and list the top costly candies based on certain criteria, such as price or production cost.
 
