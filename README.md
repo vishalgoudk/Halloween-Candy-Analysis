@@ -4,12 +4,12 @@
 
 This Halloween candy analysis project involves exploring and gaining insights from a dataset containing information about various Halloween candies. The dataset is stored in a CSV file and is analyzed using SQL Server. The analysis focuses on determining the most popular and least popular candies, examining characteristics like chocolate content, analyzing other ingredients, identifying sugary candies, distinguishing between hard and soft candies, and identifying the top costly candies.
 
-# Tools Used
+## Tools Used
 
     SQL Server: Primary database management system for querying and analyzing the Halloween candy dataset.
     CSV File: Source of raw data containing information about Halloween candies.
 
-# Analysis Steps
+## Analysis Steps
 
 -- Importing Data
 
@@ -43,6 +43,6 @@ Distinguish between hard and soft candies, categorizing them based on their text
 
 Identify and list the top costly candies based on certain criteria, such as price or production cost.
 
-# Conclusion
+## Conclusion
 
 The Halloween candy analysis project provides valuable insights into the popularity, ingredients, sugar content, texture, and cost of various candies. The results can be used for strategic decision-making, marketing, and understanding consumer preferences during the Halloween season. This analysis also offers an opportunity to explore trends and patterns within the dataset, contributing to a better understanding of the dynamics of Halloween candy consumption.
